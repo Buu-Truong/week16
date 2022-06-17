@@ -1,0 +1,52 @@
+.App {
+  text-align: center;
+}
+
+#home-text{
+ color: aliceblue;
+ background-color: darkgrey;
+}
+
+.card {
+  display:inline-block;
+  padding-bottom: 10px;
+ 
+  margin: auto;
+}
+
+#formLabelText{
+  font-weight: bolder;
+  font-size: xx-large;
+}
+
+#cityStyle{
+  background-color: rgb(124, 59, 61);
+}
+
+#hikesStyle{
+  background-color: rgb(0, 51, 102);
+}
+
+#hikecolor{
+  color: aliceblue;
+}
+
+#hikesStyleTwo{
+  color: aliceblue;
+}
+
+#tableStyle{
+  padding: 10px;
+  border: rgb(7, 24, 7);
+  border-style: solid;
+  border-width: 5px;
+}
+
+#hometext{
+  color: rgb(169, 55, 55);
+  font-style: Arizona;
+}
+
+#hometextTwo{
+  font-weight: bolder;
+}
